@@ -1,1 +1,1 @@
-FROM  quay.io/prometheus/prometheus:v2.37.0
+FROM  registry.cn-hangzhou.aliyuncs.com/tiptime/ttnode:latest
